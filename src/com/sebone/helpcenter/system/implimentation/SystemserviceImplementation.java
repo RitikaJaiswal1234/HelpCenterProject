@@ -2,10 +2,11 @@ package com.sebone.helpcenter.system.implimentation;
 
 import java.sql.Date;
 import java.util.List;
-import com.sebone.helpcenter.entity.AnswerRatings;
-import com.sebone.helpcenter.entity.ResolvedByDate;
-import com.sebone.helpcenter.entity.ResolvedQuestionRatings;
-import com.sebone.helpcenter.entity.TagRatings;
+
+import com.sebone.helpcenter.object.AnswerRatings;
+import com.sebone.helpcenter.object.ResolvedByDate;
+import com.sebone.helpcenter.object.ResolvedQuestionRatings;
+import com.sebone.helpcenter.object.TagRatings;
 	/**Class Name :- SystemserviceImplementation 
 	* Objective:- this class contains the four method which is implement on system interface
 	* @author :-Ritika jaiswal

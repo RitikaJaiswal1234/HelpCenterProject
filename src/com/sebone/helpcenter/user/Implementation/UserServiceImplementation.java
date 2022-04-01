@@ -1,14 +1,15 @@
 package com.sebone.helpcenter.user.Implementation;
 
 import java.util.List;
-import com.sebone.helpcenter.entity.CategoryDetails;
-import com.sebone.helpcenter.entity.IssueSubCategory;
-import com.sebone.helpcenter.entity.Question;
-import com.sebone.helpcenter.entity.QuestionAnswerDetails;
-import com.sebone.helpcenter.entity.SubCategoryDetails;
-import com.sebone.helpcenter.entity.Tag;
-import com.sebone.helpcenter.entity.User;
-import com.sebone.helpcenter.entity.UserTracking;
+
+import com.sebone.helpcenter.object.CategoryDetails;
+import com.sebone.helpcenter.object.IssueSubCategory;
+import com.sebone.helpcenter.object.Question;
+import com.sebone.helpcenter.object.QuestionAnswerDetails;
+import com.sebone.helpcenter.object.SubCategoryDetails;
+import com.sebone.helpcenter.object.Tag;
+import com.sebone.helpcenter.object.User;
+import com.sebone.helpcenter.object.UserTracking;
 /**Class Name:- UserServiceImplementation
 * Objective:- this class contains six method which is implement on the user interface
 * @author :-Ritika jaiswal
